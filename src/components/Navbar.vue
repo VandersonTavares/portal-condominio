@@ -73,7 +73,7 @@ const items = ref([
 .custom-menubar {
   border: none;
   border-radius: 0;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: ffffff;
   padding: 1rem 2rem;
 }
 
